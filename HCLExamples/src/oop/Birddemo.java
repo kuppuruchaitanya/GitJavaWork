@@ -26,7 +26,7 @@ public class Birddemo {
 		k.setsingingStatus();
 		k.sing();
 		k.fly();
-		 System.out.println("Object id: "+p.hashCode());
+		System.out.println("Object id: "+p.hashCode());
 
 	}
 
