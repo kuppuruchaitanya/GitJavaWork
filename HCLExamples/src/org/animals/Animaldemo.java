@@ -1,4 +1,4 @@
-package org.animals;
+package Org.animals;
 
 class Animaldemo
 {
